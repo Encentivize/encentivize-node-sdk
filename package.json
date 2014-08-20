@@ -1,0 +1,24 @@
+{
+  "name": "encentivize",
+  "version": "0.0.1",
+  "description": "Wrapper for encentivize api",
+  "main": "./index.js",
+  "author": {
+    "name": "Martin Naude",
+    "email": "martin@entelect.co.za"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/martinza78/encentivize-node-sdk"
+  },
+  "dependencies": {
+      "node-rest-client":"~1.0.0"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/martinza78/encentivize-node-sdk",
+  "_id": "encentivize@0.0.1",
+  "_from": "encentivize@"
+}
