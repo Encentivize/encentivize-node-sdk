@@ -1,6 +1,6 @@
 {
   "name": "encentivize",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Wrapper for encentivize api",
   "main": "./index.js",
   "author": {
@@ -19,6 +19,6 @@
   },
   "license": "MIT",
   "homepage": "https://github.com/martinza78/encentivize-node-sdk",
-  "_id": "encentivize@0.0.6",
+  "_id": "encentivize@0.0.7",
   "_from": "encentivize@"
 }
