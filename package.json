@@ -1,6 +1,6 @@
 {
   "name": "encentivize",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Wrapper for encentivize api",
   "main": "./index.js",
   "author": {
@@ -12,13 +12,13 @@
     "url": "git://github.com/martinza78/encentivize-node-sdk"
   },
   "dependencies": {
-      "node-rest-client":"~1.0.0"
+      "kwaai-restcall":"0.0.11"
   },
   "engines": {
     "node": ">= 0.10.0"
   },
   "license": "MIT",
   "homepage": "https://github.com/martinza78/encentivize-node-sdk",
-  "_id": "encentivize@0.0.5",
+  "_id": "encentivize@0.0.6",
   "_from": "encentivize@"
 }
