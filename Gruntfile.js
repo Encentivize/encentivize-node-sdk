@@ -6,14 +6,7 @@ module.exports = function(grunt) {
         var done = this.async(),
             npm = require('npm');
         npm.load({}, function(err) {
-            //console.log("username: "+ username);
-            //console.log("password: "+ password);
-            //console.log("email: "+ email);
-            //npm.registry.username = username;
-            //npm.registry.password = password;
-            //npm.registry.email = email;
-            //console.log("set values in registry");
-            npm.registry.adduser("http://registry.npmjs.org/",username, password, email, function(err) {
+            npm.registry.adduser("http://registry.npmjs.org/", username, password, email, function(err) {
                 if (err) {
                     console.log("addUser Error");
                     console.log(err);
@@ -28,5 +21,8 @@ module.exports = function(grunt) {
                 }
             });
         });
+    });
+    grunt.registerTask('default', 'todo', function() {
+        console.log('default called')
     });
 }
