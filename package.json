@@ -22,8 +22,8 @@
   "_id": "encentivize@0.0.9",
   "_from": "encentivize@",
   "devDependencies": {
-    "grunt": "~0.4.5",
-    "grunt-cli": "~0.1.13",
-    "npm": "~2.1.5"
+    "grunt": "0.4.5",
+    "grunt-cli": "0.1.13",
+    "npm": "2.1.5"
   }
 }
