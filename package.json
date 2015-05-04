@@ -1,6 +1,6 @@
 {
   "name": "encentivize",
-  "version": "0.0.9",
+  "version": "0.0.34",
   "description": "Wrapper for encentivize api",
   "main": "./index.js",
   "author": {
