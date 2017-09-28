@@ -5,25 +5,19 @@
   "main": "./index.js",
   "author": {
     "name": "Martin Naude",
-    "email": "martin@entelect.co.za"
+    "email": "martin@encentivize.co.za"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/martinza78/encentivize-node-sdk"
+    "url": "git@github.com:Encentivize/encentivize-node-sdk.git"
+  },
+  "license": "MIT",
+  "homepage": "git@github.com:Encentivize/encentivize-node-sdk.git",
+  "engines": {
+    "node": ">= 0.10.0"
   },
   "dependencies": {
     "kwaai-restcall": "0.0.11"
   },
-  "engines": {
-    "node": ">= 0.10.0"
-  },
-  "license": "MIT",
-  "homepage": "https://github.com/martinza78/encentivize-node-sdk",
-  "_id": "encentivize@0.0.9",
-  "_from": "encentivize@",
-  "devDependencies": {
-    "gulp": "3.8.11",
-    "npm": "2.8.3",
-    "yargs": "3.8.0"
-  }
+  "devDependencies": {}
 }

@@ -8,3 +8,6 @@ testing.js
 coverage.html
 lib-cov
 .idea/
+.gitignore
+.npmignore
+.travis.yml
